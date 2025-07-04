@@ -1,7 +1,3 @@
-# React Project Documentation
-
-Generated on: 28/5/2025, 2:54:23 pm
-
 ## Project Structure
 
 ```
